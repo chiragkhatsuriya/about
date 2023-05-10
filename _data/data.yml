@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - Over 14 years of professional experience in software development as a Full stack developer in various client domains. 
+      - Over 14 years of professional experience in software development as a *Full stack developer* in various client domains. 
       - Proven track record in developing reusable code, cleaner code structure, and understanding of the JS features to ensure data availability to the front-end. 
       - Experience in Business Domains, Ecommerce, Social Networking, Business Applications, SAP, Chat Scripts etc.,
       - Expertise in Client Scripting language and server side scripting languages like HTML5, CSS3, JavaScript with ECMA6 features, TypeScript,React JS, VueJS, Redux, Figma, jQuery, JSON, Bootstrap, Antd.
@@ -71,7 +71,7 @@ career-profile:
       - Experience with XUnit & JUnit for Unit Testing. 
       - Experienced with Docker, Minikube, GraphQL, Google Scripts, Grafana, Optimizely,Github, BitBucket, Payment Integrations (Paypal, StripeJS) , Google Auth, OneLogin, Okta, PostMan, Swagger, Proto.io 
       - Experience using JIRA for project management & defect tracking.
-      - Actively participate in the Interview panel and decision maker.
+      - Actively participate in the <b>Interview panel</b> and decision maker.
 education:
     title: Education
     info:
