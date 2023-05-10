@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: chirag.khatsuriya
+    email: chirag.khatsuriya@gmail.com
     phone: +91 94 28 99 06 07
     timezone: Asa/Kolkata and India Standard Time (IST)
     citizenship: Indian
     website:  #do not add http://
     linkedin: chiragkhatsuriya
     xing: 
-    github: https://github.com/chiragkhatsuriya
+    github: chiragkhatsuriya
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,10 +36,10 @@ sidebar:
           level: Professional
 
         - idiom: Hindi
-          level: Native
+          level: Professional
 
         - idiom: Gujarati
-          level: Professional
+          level: Native
 
     # interests:
     #   title: Interests
@@ -56,10 +56,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - Over 14 years of professional experience in software development as a *Full stack developer* in various client domains. 
+      - Over 14 years of professional experience in software development as a <b>Full stack developer</b> in various client domains. 
       - Proven track record in developing reusable code, cleaner code structure, and understanding of the JS features to ensure data availability to the front-end. 
       - Experience in Business Domains, Ecommerce, Social Networking, Business Applications, SAP, Chat Scripts etc.,
-      - Expertise in Client Scripting language and server side scripting languages like HTML5, CSS3, JavaScript with ECMA6 features, TypeScript,React JS, VueJS, Redux, Figma, jQuery, JSON, Bootstrap, Antd.
+      - Expertise in Client Scripting language and server side scripting languages like HTML5, CSS3, <b>JavaScript</b> with <b>ECMA6</b> features, <b>TypeScript</b>, <b>React JS</b>, <b>VueJS</b>, <b>Redux</b>, <b>Figma</b>, jQuery, JSON, <b>Bootstrap</b>, <b>Antd</b>.
       - Rich experience with development  for loading views in a Single Page Application, MVC structure for JavaScript files, data-binding.
       - Experience with Node JS, Node install JavaScript latest version of libraries. 
       - Experience in developing software applications using ASP.Net, .Net Core, Microservices, Kazmon, JAVA (w/ Spring Boot) technologies.
