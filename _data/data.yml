@@ -14,17 +14,17 @@ sidebar:
     # Sidebar links
     email: chirag.khatsuriya
     phone: +91 94 28 99 06 07
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    timezone: Asa/Kolkata and India Standard Time (IST)
+    citizenship: Indian
+    website:  #do not add http://
+    linkedin: chiragkhatsuriya
+    xing: 
+    github: https://github.com/chiragkhatsuriya
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 1302273/chirag-khatsuriya # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -33,35 +33,45 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
+        - idiom: Gujarati
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Over 13 years of professional experience in software development as a Full stack developer in various client domains. 
+      Proven track record in developing reusable code, cleaner code structure, and understanding of the JS features to ensure data availability to the front-end. 
+      Experience in Business Domains, Ecommerce, Social Networking, Business Applications, SAP, Chat Scripts etc.,
+      Expertise in Client Scripting language and server side scripting languages like HTML5, CSS3, JavaScript with ECMA6 features, TypeScript,React JS, VueJS, Redux, Figma, jQuery, JSON, Bootstrap, Antd.
+      Rich experience with development  for loading views in a Single Page Application, MVC structure for JavaScript files, data-binding.
+      Experience with Node JS, Node install JavaScript latest version of libraries. 
+      Experience in developing software applications using ASP.Net, .Net Core, Microservices, Kazmon, JAVA (w/ Spring Boot) technologies.
+      Proficiency on Responsive Web Design using Custom CSS, CSS Preprocessors like SASS, LESS Bootstrap, cross browser and adapt to the changing environment.  
+      Experience in developing applications for different platforms like web browser, iOS, Android. 
+      Worked with AGILE Methodology in projects and participated in SCRUM meetings as well in previous projects. 
+      Experience with RDBMS like MySQL, MS-SQL, Oracle. No-SQL database such as Sauce DB. 
+      Hosting experience in IIS, Apache2 , Tomcat Server 
+      Experience with XUnit & JUnit for Unit Testing. 
+      Experienced with Docker, Minikube, GraphQL, Google Scripts, Grafana, Optimizely,Github, BitBucket, Payment Integrations (Paypal, StripeJS) , Google Auth, OneLogin, Okta, PostMan, Swagger, Proto.io 
+      Experience using JIRA for project management & defect tracking.
+      - Actively participate in the Interview panel and decision maker.
 education:
     title: Education
     info:
