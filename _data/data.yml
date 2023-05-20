@@ -101,11 +101,11 @@ experiences:
     title: Experiences
     info:
       - role: Team Lead
-        time: 2013 - Present
+        time: Jan-2022 - Present
         company: Tech Mahindra
         # details: |
       - role: Senior Software Engineer
-        time: 2013 - 2022
+        time: May-2012 - Dec-2021
         company: Lodestone Software Services Pvt. Lt.
         # details: |
         #   Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -120,20 +120,26 @@ experiences:
         #     - Bullet point
         #     - Bullet point
       - role: Software Developer
-        time: 2008 - 2012
+        time: Aug-2008 - April-2012
         company: Soluture (India) LLC
         # details: |      
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
+      # >
+      # You can list your side projects in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+      - title: Ecom Sparky
+        link: "#"
+        tech: .Net Core (C#), React JS, Vue JS, GraphQL
+        tagline: "Allow users to purchase the plans based on monthly and annually plans variants.  Users can Upgrade and Downgrade the plan at any time with applying the promo code. Users can buy multiple seats for accounts across the world. We Will manage globalization and localization to allow users to buy in different regions. Users can buy with different global payment methods."
+        responsibility: "Responsible for:"
+          - Develop new features and write the new APIs.
+          - Handling the team in India with 6 developers. ( C# and React JS )
+          - Architectural level designs in React JS.
+          
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
