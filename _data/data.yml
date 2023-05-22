@@ -131,6 +131,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Ecom Sparky
+        title2: TEST TITLE 2
         link: "#"
         tech: .Net Core (C#), React JS, Vue JS, GraphQL
         tagline: "Allow users to purchase the plans based on monthly and annually plans variants.  Users can Upgrade and Downgrade the plan at any time with applying the promo code. Users can buy multiple seats for accounts across the world. We Will manage globalization and localization to allow users to buy in different regions. Users can buy with different global payment methods."
