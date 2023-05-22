@@ -135,7 +135,7 @@ projects:
         link: "#"
         tech: .Net Core (C#), React JS, Vue JS, GraphQL
         tagline: "Allow users to purchase the plans based on monthly and annually plans variants.  Users can Upgrade and Downgrade the plan at any time with applying the promo code. Users can buy multiple seats for accounts across the world. We Will manage globalization and localization to allow users to buy in different regions. Users can buy with different global payment methods."
-        # responsibility: "Responsible for:"
+        responsibility: "Responsible for:"
           # - Develop new features and write the new APIs.
           # - Handling the team in India with 6 developers. ( C# and React JS )
           # - Architectural level designs in React JS.
