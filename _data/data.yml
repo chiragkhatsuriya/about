@@ -133,7 +133,8 @@ projects:
       - title: Ecom Sparky
         title2: TEST TITLE 2
         link: "#"
-        tech: **.Net Core (C#), React JS, Vue JS, GraphQL**
+        tech: |
+         **.Net Core (C#), React JS, Vue JS, GraphQL**
         tagline: "Allow users to purchase the plans based on monthly and annually plans variants with different global payment methods. Upgrade and Downgrade the selected plan with multiple seats at any time with applying the promo code. Managed globalization and localization to allow users to buy in different regions."
         responsibility: "Responsible for:"
           # - Develop new features and write the new APIs.
