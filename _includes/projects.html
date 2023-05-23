@@ -28,11 +28,11 @@
       </span>
 
       {% if project.tech %}
-      <span class="project-tagline">{{ project.tech }}</span>
+      <div class="project-tech">{{ project.tech | markdownify }}</div>
       {% endif %}
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <div class="project-tagline">{{ project.tagline | markdownify }}</div>
       {% endif %}
 
       {% if project.responsibility %}
