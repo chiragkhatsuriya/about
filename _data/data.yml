@@ -131,12 +131,12 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Ecom Sparky
-        title2: TEST TITLE 2
         link: "#"
         tech: |
          **.Net Core (C#), React JS, Vue JS, GraphQL**
         tagline: "Allow users to purchase the plans based on monthly and annually plans variants with different global payment methods. Upgrade and Downgrade the selected plan with multiple seats at any time with applying the promo code. Managed globalization and localization to allow users to buy in different regions."
-        responsibility: "Responsible for:"
+        responsibility: |
+          "Responsible for:"
           - Develop new features and write the new APIs.
           - Handling the team in India with 6 developers. ( C# and React JS )
           - Architectural level designs in React JS.
