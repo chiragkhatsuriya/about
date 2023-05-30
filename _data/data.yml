@@ -136,18 +136,22 @@ projects:
          **.Net Core (C#), React JS, Vue JS, GraphQL**
         tagline: "Allow users to purchase the plans based on monthly and annually plans variants with different global payment methods. Upgrade and Downgrade the selected plan with multiple seats at any time with applying the promo code. Managed globalization and localization to allow users to buy in different regions."
         responsibility: |
-          Responsible for:
-          - Develop new features and write the new APIs.
-          - Handling the team in India with 6 developers. ( C# and React JS )
-          - Architectural level designs in React JS.
+          **Responsible for:**
+          - Develop new features and write the new **APIs**.
+          - Lead the team in offshore (India) with 6 developers. **( C# and React JS )**
+          - Architectural level designs in **React JS**.
           
-      - title: DevStudio
+      - title: XPress
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tech: |
+         **Spring Boot, Node JS, React JS, Antd, Android Studio, XCode**
+        tagline: Xpress is used for devices (Android / iOS) interaction and recording the test automation using the User Interface. Based on the recording test cases, users can run the recorded test cases on the device. Integrated the SAML connector to authenticate the users with Onelogin and Okta. App management module to upload the device on a secured server and users can install the uploaded files on the device.
+        
+      - title: Q-Vision
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tech: |
+         **Spring Boot, React JS, Bootstrap 4, JIRA API Integration**
+        tagline: "Application is for displaying the report of the Automation with different types of failure and success of run test cases. Auto update the failures of the automated runs based on the previous runs. It helps to analyse the stability of the product over a period."
 
       - title: Atom
         link: "#"
